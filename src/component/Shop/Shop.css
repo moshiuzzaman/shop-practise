@@ -1,0 +1,9 @@
+.shop{
+    display: flex;
+}
+.allProducts{
+    width: 70%;
+    margin-left: 40px;
+    border-right: 1px solid gray;
+    padding-right: 10px;
+}
